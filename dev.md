@@ -1,1 +1,2 @@
 "dev something" 
+"fix bugs" 
